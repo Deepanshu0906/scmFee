@@ -23,8 +23,3 @@ This repository includes:
 
 ## 🤝 Team Effort
 This website was created by a team of three members as part of our learning experience. All members contributed to different parts of the website, and we collaborated using GitHub to manage our source code, track changes, and stay updated with each other's work.
-
-## 📚 Purpose
-The main purpose of uploading this project to GitHub is to demonstrate our understanding of source code management, version control, and teamwork using Git.
----
-Feel free to fork, clone, or explore the code!
